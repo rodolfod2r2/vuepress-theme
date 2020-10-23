@@ -1,0 +1,28 @@
+{
+  "name": "vuepress-theme",
+  "version": "0.0.1",
+  "description": "SÓ MAIS UM PROJETINHO TOPPER!",
+  "main": "index.js",
+  "authors": {
+    "name": "Rodolfo Gonçalves de Luna Freire",
+    "email": "rodolfod2r2@gmail.com"
+  },
+  "repository": "http://github.com/rodolfod2r2/vuepress-theme",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "markdownlint-cli": "^0.23.2"
+  },
+  "dependencies": {
+    "js-yaml-loader": "^1.2.2",
+    "swagger-ui": "^3.33.0",
+    "argparse": "^1.0.10",
+    "markdownlint": "^0.20.4",
+    "markdownlint-rule-helpers": "^0.11.0",
+    "swagger-parser": "^9.0.1"
+  }
+}
