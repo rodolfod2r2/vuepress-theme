@@ -8,6 +8,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras bibendum dui neque
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce lorem nisi, ultrices nec erat in, posuere tempus dui. Quisque nec mauris accumsan, pharetra tellus at, fermentum tellus. Fusce mi dolor, scelerisque ac neque et, eleifend ultricies leo. Sed et nisi commodo, gravida velit eu, posuere eros. Curabitur vel ligula nec purus laoreet maximus eget nec leo. Etiam elementum augue dui, nec bibendum diam consectetur vehicula. Donec non ex lorem. Sed imperdiet sagittis dolor in tempus. Suspendisse turpis eros, pulvinar in libero nec, cursus tempor enim. Donec efficitur ligula vel nisl imperdiet, ut pulvinar massa tristique. Ut posuere suscipit est. Proin a sodales est. Nulla lorem magna, tempus a molestie vitae, mattis et dui. Nam et efficitur neque. Maecenas sollicitudin nunc sit amet enim hendrerit, sed ullamcorper ante rhoncus.
 
+
+<p align="center">
+  <a href="https://vuepress.vuejs.org/" target="_blank">
+    <img width="180" src="https://raw.githubusercontent.com/vuejs/vuepress/master/packages/docs/docs/.vuepress/public/hero.png" alt="logo">
+  </a>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/npm/dm/vuepress.svg" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/vuepress"><img src="https://img.shields.io/npm/v/vuepress.svg" alt="Version"></a>
+  <a href="https://github.com/vuejs/vuepress/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
+  <a href="https://discordapp.com/invite/HBherRA"><img src="https://img.shields.io/badge/Discord-join%20chat-738bd7.svg" alt="VuePress channel on Discord"></a>
+</p>
+
 ## Advanced
 
 Mauris at facilisis ex. Duis a suscipit leo. Aliquam eu ultricies leo, non dignissim purus. Donec efficitur tristique turpis sit amet laoreet. Pellentesque ac justo at augue eleifend ornare. Integer enim leo, hendrerit id lacinia vel, consectetur vitae arcu. Nulla nec lorem sit amet sapien vulputate rhoncus. Vestibulum sed auctor libero, ac sodales nulla. Etiam volutpat risus sed odio sagittis, at laoreet leo efficitur. Suspendisse eleifend, lectus quis imperdiet ornare, mauris ex feugiat nulla, at fringilla nisl nunc eget nisl. Nullam non scelerisque diam. Maecenas cursus lectus at porttitor auctor. Proin porta nisl elit, a semper justo finibus non. Integer id accumsan purus.
