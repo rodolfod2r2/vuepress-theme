@@ -14,15 +14,17 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3",
-    "markdownlint-cli": "^0.23.2"
+    "@vuepress/plugin-back-to-top": "^1.7.1",
+    "@vuepress/plugin-medium-zoom": "^1.7.1",
+    "markdownlint-cli": "^0.23.2",
+    "vuepress": "^1.5.3"
   },
   "dependencies": {
-    "js-yaml-loader": "^1.2.2",
-    "swagger-ui": "^3.33.0",
     "argparse": "^1.0.10",
+    "js-yaml-loader": "^1.2.2",
     "markdownlint": "^0.20.4",
     "markdownlint-rule-helpers": "^0.11.0",
-    "swagger-parser": "^9.0.1"
+    "swagger-parser": "^9.0.1",
+    "swagger-ui": "^3.33.0"
   }
 }

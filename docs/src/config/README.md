@@ -1,9 +1,5 @@
 ---
 sidebar: auto
-bgImage: '/assets/img/favicon.png'
-bgImageStyle: {
-  height: '350px'
-}
 ---
 
 # Linguagens

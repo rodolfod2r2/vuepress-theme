@@ -4,19 +4,23 @@ module.exports = {
     title: 'VUEPRESS-THEME',
     description: description,
     head: [
-        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/img/favicon.png"}],
-        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/img/favicon.png"}],
+        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/images/favicon.png"}],
+        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/images/favicon.png"}],
         ['meta', {name: 'theme-color', content: '#3eaf7c'}],
         ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
         ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}]
     ],
     themeConfig: {
-        logo: '/assets/img/icone.png',
+        logo: '/assets/images/icone.png',
         smoothScroll: true,
         editLinks: false,
         docsDir: '',
         lastUpdated: false,
         nav: [
+            {
+                text: 'Documentation',
+                link: '/documents/bestpratices',
+            },
             {
                 text: 'Protect',
                 link: '/protect/',
@@ -43,24 +47,25 @@ module.exports = {
                 link: '/api/'
             }
         ],
-        sidebar: {
-            '/protect/': [
-                {
-                    title: 'Protect',
-                    collapsable: false,
-                    children: [
-                        '',
-                        'using-vue',
-                    ]
-                }
-            ],
-            '/product/': [
-                {
-                    title: 'Produto',
-                    collapsable: false,
-                }
-            ],
-        }
+        sidebar: [
+            {
+                title: 'Overview',
+                collapsable: false,
+                children: [
+                    ['/overview/content','About'],
+                    ['/overview/faqs' , 'FAQs' ]
+                ]
+            },
+            {
+                title: 'Documentation',
+                collapsable: false,
+                children: [
+                    ['/documents/bestpratices','About'],
+                    ['/documents/markdown','Markdown'],
+                    ['/documents/mkdocs' , 'MKDocs' ]
+                ]
+            }
+        ],
     },
     plugins: [
         '@vuepress/plugin-back-to-top',

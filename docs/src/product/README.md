@@ -2,6 +2,72 @@
 title: Product About
 ---
 
+
+![Logo image](/assets/images/demo.jpg "Logo Image")
+
+
+# Name 
+
+Description (Descrição)
+
+badges ou shields https://shields.io/
+
+## Features
+
+(framworks e tecnologias utilziadas e o que faz resumidamente cada)
+
+## Visuals
+
+(GIFs do projeto ou screenshots)
+
+## Getting started
+
+(como começar a utilizar o repositório)
+
+## Installation
+
+(quais comandos são necesários)
+
+## Usage
+
+(exemplos de como usar, qual resultado se espera, etc..)
+
+## Support
+
+(Diga às pessoas onde elas podem procurar ajuda. Pode ser qualquer combinação de um rastreador de problemas, uma sala de bate-papo, um endereço de e-mail etc.)
+
+## Roadmap 
+
+(Se você tiver idéias para lançamentos no futuro, é uma boa ideia listá-las no README.
+
+## Contributing
+
+Indique se você está aberto a contribuições e quais são seus requisitos para aceitá-las.
+
+Para pessoas que desejam fazer alterações no seu projeto, é útil ter alguma documentação sobre como começar. Talvez exista um script que eles devam executar ou algumas variáveis de ambiente que precisem definir. Faça essas etapas explícitas. Essas instruções também podem ser úteis para o seu futuro eu.
+
+Você também pode documentar comandos para aprender o código ou executar testes. Essas etapas ajudam a garantir a alta qualidade do código e a reduzir a probabilidade de que as alterações quebrem inadvertidamente alguma coisa. Ter instruções para executar testes é especialmente útil se exigir configuração externa, como iniciar um servidor Selenium para teste em um navegador.
+
+## Authors and acknowledgment
+Mostre sua gratidão àqueles que contribuíram para o projeto.
+
+## License
+
+Descreva a licença implementanda no projeto. Para ajuda, consulte este site: https://choosealicense.com/
+
+## Project status
+
+Se você ficou sem energia ou tempo para o seu projeto, coloque uma nota no topo do LEIA-ME dizendo que o desenvolvimento desacelerou ou parou completamente. Alguém pode optar por bifurcar o seu projeto ou ser voluntário para intervir como mantenedor ou proprietário, permitindo que o seu projeto continue. Você também pode fazer uma solicitação explícita para mantenedores.
+
+## Changelog
+
+Exemplo de um changelog
+
+
+
+
+
+
 ## Lorem ipsum 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras bibendum dui neque, quis imperdiet arcu bibendum non. Sed nec sem feugiat, porta risus sed, mollis neque. Nunc vitae vehicula tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur gravida leo metus, nec tincidunt turpis pharetra ut. Nam sagittis fermentum quam sit amet luctus. Aenean tincidunt hendrerit tempor. Phasellus eget justo sodales, consectetur sapien ut, rutrum massa. Nulla blandit dapibus tincidunt. Ut vel ante ut ex eleifend volutpat quis eu nulla. Duis eu arcu a velit porta tincidunt. Duis et sem vehicula est accumsan posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque varius congue metus a laoreet.
